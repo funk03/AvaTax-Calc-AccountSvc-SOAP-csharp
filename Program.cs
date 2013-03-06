@@ -15,8 +15,8 @@ namespace AccountSvcTest
         static void Main(string[] args)
         {
             String url = "https://development.avalara.net";
-            String username = ""; //You must authenticate with username/password (and not account number/ license key)
-            String password = "";                     //Also, the credentials will need to be CompanyAdmin or AccountAdmin level.
+            String username = ""; //TODO: You must authenticate with username/password (and not account number/ license key)
+            String password = ""; //TODO: Also, the credentials will need to be CompanyAdmin or AccountAdmin level.
 
             int accountId = 1100012345; //This should be your account Id - used for company creation, not authentication. 
 
