@@ -96,7 +96,7 @@ namespace AccountSvcTest
             newUser.CompanyId = companyId;
             newUser.AccountId = accountId;
 
-            newUser.Email = "anya.stettler@avalara.com";//Should be merchant/client user
+            newUser.Email = "new.user@avalara.com";//Should be merchant/client user email
             newUser.FirstName = "Anya";
             newUser.LastName = "Stettler";
             newUser.UserName = "sdksupport@avalara.com"+DateTime.Now; //Must be unique within the Avalara server - we usually use email address. I've added a timestamp here for testing.
