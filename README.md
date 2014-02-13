@@ -4,7 +4,7 @@ The AccountSvc API allows a user to interact with the company profile setup for 
 This is a sample of the AvaTax AccountSvc SOAP API in C# demonstrating the following functionality:
 - Creation and modification of a company profile
 - Creation and modification of user accounts
-- Modification of nexus setting son an existing company profile.
+- Modification of nexus settings on an existing company profile.
 
 To run this sample (which uses .NET 2.0), you will also need a web services library available from Microsoft:
 http://www.microsoft.com/en-us/download/details.aspx?id=14089
